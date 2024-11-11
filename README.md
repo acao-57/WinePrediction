@@ -10,7 +10,7 @@ The dataset contains the following: fixed acidity, volatile acidity, citric acid
 
 Data loading and preparation
 - The dataset is loaded using pandas and described using .info and .describe
-- Log Transformation is used to reduce skewness and remove the effect of outliers.
+- Log Transformation is used to reduce skewness effect of outliers.
 - Robust scaler
 
 Exploratory Data Analysis
