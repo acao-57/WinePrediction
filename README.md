@@ -1,7 +1,7 @@
 # MiniProject- Wine Quality Prediction
 This project aim to analyze and create a prediction model based on different chemical properties that effect wine quality. The dataset used in this model is WINEQT.csv and is from the following kaggle: https://www.kaggle.com/datasets/yasserh/wine-quality-dataset.
 
-In order to run this project the following libraires are required python 3, pandas, numpy, seaborn, matplotlib, scikit-learn.
+In order to run this project the following libraries are required python 3, pandas, numpy, seaborn, matplotlib, scikit-learn.
 
 The structure of the project includes data loading and preparation, exploratory data analysis, model training and evaluation and model comparison. 
 
@@ -19,11 +19,11 @@ Exploratory Data Analysis
 
 Model Comparison  
 - Decision Tree
-- Random forest
+- Random Forest
 - Linear Regression
 
 Model analysis
 - Mean squared error
-- Godness of fit
+- Goodness of fit
 - R^2 Score
 
