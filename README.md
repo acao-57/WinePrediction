@@ -43,6 +43,7 @@ The dataset contains the following: fixed acidity, volatile acidity, citric acid
 - Mean squared error
 - Goodness of fit
 - R^2 Score
+- Confusion Matrix
 
 6. Evaluation
 The project showcases data science fundamentals, from data exploration to model evaluation. Each notebook is well-organized around key chemical properties, with logical progression from exploratory data analysis to modeling. The final results underline that while logistic regression offers a straightforward approach, the neural network captures more complex patterns, resulting in higher accuracy. The project shows a correlation bewtten for example alchol content and volatile acidity effecting the overal wine quality score, however the result also shows that wine quilty can't just be simplified to a few key factors. In order to understand wine quality better, the relationship between each chemical properity should be explored furthur. 
