@@ -8,7 +8,7 @@ In order to run this project the following libraries are required python 3, pand
 
 Problem Definition:  To determine which features are most important in predicting wine quality and to build an effective classification model based on these properties.
 
-Project Structure
+Project Structure: 
 The structure of the project includes data loading and preparation, exploratory data analysis, model training and evaluation and model comparison. The mini project is deivded into three separate python notebooks for better modularity. The projects key takeways and a evalution is highlited as well as which contributator worked on whihc notebook and the notebooks content. 
 
 1. Data Description
