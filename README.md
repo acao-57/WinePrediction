@@ -21,7 +21,6 @@ The structure of the project includes data loading and preparation, exploratory 
 8. Notebooks
 9. Contributions
 
-
 1. Data Description
 The dataset contains the following: fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulfates, alcohol and quality.
 
