@@ -64,9 +64,9 @@ Most attributes have weak correlations with quality, suggesting that no single f
 - density-ph-alchol
 
 9. Contributions
-  @ersulxx fixedacidity-volatileacidity-citricacidity-residualsugar
-  @acao-57  chlorides-fsd-tsd-sulphates
-  @Jiahuiyue  density-ph-alchol
+-  @ersulxx fixedacidity-volatileacidity-citricacidity-residualsugar
+-  @acao-57  chlorides-fsd-tsd-sulphates
+-   Jiahuiyue  density-ph-alchol
 
 Link to power point: https://docs.google.com/presentation/d/1mzXFIEh3CIzrWwn4ftEVO_lcgcq6BlHc7FC3yBKqyrE/edit?fbclid=IwZXh0bgNhZW0CMTAAAR3wZZW5P6VNuic79ET_MRV6__ikmLmZLWkKUOXEvhwg2L60Qzyok-Mi5zI_aem_9eGi1rKv6rDFSWDxSOYRJA#slide=id.g313982179b3_0_352
 
