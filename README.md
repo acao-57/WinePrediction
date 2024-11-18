@@ -70,4 +70,4 @@ Most attributes have weak correlations with quality, suggesting that no single f
 
 Link to power point: https://docs.google.com/presentation/d/1mzXFIEh3CIzrWwn4ftEVO_lcgcq6BlHc7FC3yBKqyrE/edit?fbclid=IwZXh0bgNhZW0CMTAAAR3wZZW5P6VNuic79ET_MRV6__ikmLmZLWkKUOXEvhwg2L60Qzyok-Mi5zI_aem_9eGi1rKv6rDFSWDxSOYRJA#slide=id.g313982179b3_0_352
 
-Link to video:https://drive.google.com/file/d/1IeHiAIlMwKhhUuPlin-YMiz3_6Ww-d3J/view?usp=sharing
+Link to video:https://drive.google.com/file/d/1zxHNvUr4m2K-qMpyZ6p__Pn-8fp0TqyZ/view?usp=sharing
